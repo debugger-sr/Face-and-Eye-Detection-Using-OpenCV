@@ -60,19 +60,10 @@ FaceEyeDetection/
 
 ### 7. Results
 
-### Face Detection
-![Face Detection](https://preview.redd.it/vl8nmx8drhh31.jpg?width=320&crop=smart&auto=webp&s=f1fa8c4bd5927612d88c6ff52bc1178804a2aad0)  
-
-*Blue rectangles highlight detected faces.*
-
----
-
 ### Face and Eye Detection
-![Face and Eye Detection](https://raw.githubusercontent.com/your-username/FaceEyeDetection/main/images/face_eye_detected.png)  
+![Face and Eye Detection](https://preview.redd.it/vl8nmx8drhh31.jpg?width=320&crop=smart&auto=webp&s=f1fa8c4bd5927612d88c6ff52bc1178804a2aad0)  
 
 *Blue rectangles indicate faces, green rectangles indicate eyes detected inside the faces.*
-
-> Replace `your-username` in the image URLs with your GitHub username.  
 
 ---
 
