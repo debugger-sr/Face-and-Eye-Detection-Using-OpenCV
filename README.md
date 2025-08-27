@@ -30,6 +30,7 @@ The program continuously captures video from the webcam and processes each frame
 - Haar cascade XML files (`haarcascade_frontalface_default.xml` and `haarcascade_eye.xml`)  
 
 ### File Structure
+
 FaceEyeDetection/
 ├── haarcascade_frontalface_default.xml
 ├── haarcascade_eye.xml
@@ -48,7 +49,7 @@ FaceEyeDetection/
 
 ---
 
-## 6. Usage
+### 6. Usage
 1. Ensure Python and OpenCV are installed  
 2. Place Haar cascade XML files in the project folder  
 3. Run the notebook or script  
@@ -57,7 +58,7 @@ FaceEyeDetection/
 
 ---
 
-## 7. Results
+### 7. Results
 
 ### Face Detection
 ![Face Detection](https://raw.githubusercontent.com/your-username/FaceEyeDetection/main/images/face_detected.png)  
