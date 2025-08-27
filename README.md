@@ -30,7 +30,7 @@ The program continuously captures video from the webcam and processes each frame
 - Haar cascade XML files (`haarcascade_frontalface_default.xml` and `haarcascade_eye.xml`)  
 
 ### File Structure
-
+```bash
 FaceEyeDetection/
 ├── haarcascade_frontalface_default.xml
 ├── haarcascade_eye.xml
@@ -40,6 +40,7 @@ FaceEyeDetection/
 └── images/
 ├── face_detected.png
 └── face_eye_detected.png
+```
 
 ### 5. How It Works
 - Captures video from the webcam  
