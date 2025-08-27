@@ -29,9 +29,7 @@ The program continuously captures video from the webcam and processes each frame
 - OpenCV library  
 - Haar cascade XML files (`haarcascade_frontalface_default.xml` and `haarcascade_eye.xml`)  
 
-### Install Dependencies
-```bash
-pip install opencv-python
+### File Structure
 FaceEyeDetection/
 ├── haarcascade_frontalface_default.xml
 ├── haarcascade_eye.xml
@@ -39,10 +37,8 @@ FaceEyeDetection/
 ├── README.md
 ├── requirements.txt
 └── images/
-    ├── face_detected.png
-    └── face_eye_detected.png
-
----
+├── face_detected.png
+└── face_eye_detected.png
 
 ### 5. How It Works
 - Captures video from the webcam  
