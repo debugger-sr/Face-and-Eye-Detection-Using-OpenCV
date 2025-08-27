@@ -61,7 +61,7 @@ FaceEyeDetection/
 ### 7. Results
 
 ### Face Detection
-![Face Detection](https://raw.githubusercontent.com/your-username/FaceEyeDetection/main/images/face_detected.png)  
+![Face Detection](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPython%2Fcomments%2Fcsppzm%2Fface_and_eye_detection_using_opencv_and_python_cv2%2F&psig=AOvVaw0z0_HDfu1oY9zAOL-LyTL1&ust=1756411630996000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCqybzlq48DFQAAAAAdAAAAABAE)  
 
 *Blue rectangles highlight detected faces.*
 
