@@ -36,10 +36,7 @@ FaceEyeDetection/
 ├── haarcascade_eye.xml
 ├── face_eye_detection.ipynb
 ├── README.md
-├── requirements.txt
-└── images/
-├── face_detected.png
-└── face_eye_detected.png
+└── image with face and eye_detected.jpg
 ```
 
 ### 5. How It Works
