@@ -61,7 +61,7 @@ FaceEyeDetection/
 ### 7. Results
 
 ### Face Detection
-![Face Detection](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPython%2Fcomments%2Fcsppzm%2Fface_and_eye_detection_using_opencv_and_python_cv2%2F&psig=AOvVaw0z0_HDfu1oY9zAOL-LyTL1&ust=1756411630996000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCqybzlq48DFQAAAAAdAAAAABAE)  
+![Face Detection](https://preview.redd.it/vl8nmx8drhh31.jpg?width=320&crop=smart&auto=webp&s=f1fa8c4bd5927612d88c6ff52bc1178804a2aad0)  
 
 *Blue rectangles highlight detected faces.*
 
